@@ -3,14 +3,8 @@
 # BibiBreak: The Cartel Cracker 
 ## 🎭 FaceSaving-Protocol: How to Buy a Coalition (Knesset 2026 Edition)
 
-# BibiBreak: Coalition Game Theory Simulator (Knesset 2026 Edition)
 
 Welcome to **BibiBreak** (or *The Kingmaker's Dilemma*), a Game Theory sandbox written in Python. This repository models the complex political deadlock of the 26th Israeli Knesset elections (October 2026) using quantitative game theory concepts, specifically the **Banzhaf Power Index** and **Nash Equilibria in strategic bargaining**.
-
-### The Talmudic Alignment Doctrine (The Nucleolus Framework)
-Interestingly, this strategy perfectly aligns with traditional Talmudic legal logic regarding asset division under dispute (specifically *Bava Metzia 1:1* and *Ketubot* regarding collective responsibility). In cooperative game theory, as proven by Nobel laureate Robert Aumann, Talmudic rationing rules precisely mirror the **nucleolus of a game**. 
-
-By introducing `Arab_Raam` as a balancing constraint, the opposition doesn't just apply raw leverage; it shifts the baseline of "justified claims." Under this doctrine, the Ultra-Orthodox factions view capitulation not as a defeat, but as a mandatory legal duty to minimize systemic damage (*Pikuach Nefesh* in a political sense), making the resulting Nash equilibrium culturally legitimate and exceptionally durable.
 
 ---
 
@@ -121,7 +115,12 @@ if __name__ == '__main__':
 
 ## 📈 Theoretical Backing
 
-### The Ideological "Face-Saving" Variable
+
+### The Talmudic Alignment Doctrine (The Nucleolus Framework)
+Interestingly, this strategy perfectly aligns with traditional Talmudic legal logic regarding asset division under dispute (specifically *Bava Metzia 1:1* and *Ketubot* regarding collective responsibility). In cooperative game theory, as proven by Nobel laureate Robert Aumann, Talmudic rationing rules precisely mirror the **nucleolus of a game**. 
+
+By introducing `Arab_Raam` as a balancing constraint, the opposition doesn't just apply raw leverage; it shifts the baseline of "justified claims." Under this doctrine, the Ultra-Orthodox factions view capitulation not as a defeat, but as a mandatory legal duty to minimize systemic damage (*Pikuach Nefesh* in a political sense), making the resulting Nash equilibrium culturally legitimate and exceptionally durable. 
 This simulation models an ideal political framing scenario. By leveraging the credible alternative threat of an `Arab_Raam` alliance, the opposition drives a wedge through the orthodox faction block (`Shas` + `Utj`). 
 
+### The Ideological "Face-Saving" Variable
 Once the cartel breaks and the religious parties capitulate, they carry home an airtight narrative for their voter base: *"We did not defect for budgets; we selflessly joined the cabinet to exclude Arab parties from the coalition and protect the state's Jewish character."* This creates an incredibly stable Nash equilibrium where both entry cost is reduced, and future exit/blackmail threats are muted due to an ever-present backup partner standing outside.
