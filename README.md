@@ -21,6 +21,19 @@ The repository explores how political coalitions form when a traditional ruling 
 * **Valid Coalition Generator:** Programmatically loops through all combinations to output feasible governments meeting the 61-seat threshold.
 
 ---
+### 📐 Coalition Cartel Breakdown Logic
+
+```mermaid
+graph TD
+    A[Knesset Deadlock: No Likud] --> B[Secular Opposition Core: 48 Seats]
+    B --> C{Strategic Choice}
+    C -->|Option A: Buy BOTH Orthodox| D[High Cost + Religious Veto on Bills]
+    C -->|Option B: The Threat Strategy| E[Target ONE Orthodox Faction + Arab Raam]
+    E --> F[Orthodox Cartel Faced with Prisoner's Dilemma]
+    F -->|Union Holds| G[Payoff: 0 / Total Opposition Exclusion]
+    F -->|Individual Defection| H[Payoff: 2 / Low-Cost Coalition Entry]
+    H --> I[Result: Both Orthodox capitulate to Center under 'Face-Saving' banner]
+```
 
 ## 💻 Script Code (`coalition_simulator.py`)
 
