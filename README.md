@@ -7,6 +7,11 @@
 
 Welcome to **BibiBreak** (or *The Kingmaker's Dilemma*), a Game Theory sandbox written in Python. This repository models the complex political deadlock of the 26th Israeli Knesset elections (October 2026) using quantitative game theory concepts, specifically the **Banzhaf Power Index** and **Nash Equilibria in strategic bargaining**.
 
+### The Talmudic Alignment Doctrine (The Nucleolus Framework)
+Interestingly, this strategy perfectly aligns with traditional Talmudic legal logic regarding asset division under dispute (specifically *Bava Metzia 1:1* and *Ketubot* regarding collective responsibility). In cooperative game theory, as proven by Nobel laureate Robert Aumann, Talmudic rationing rules precisely mirror the **nucleolus of a game**. 
+
+By introducing `Arab_Raam` as a balancing constraint, the opposition doesn't just apply raw leverage; it shifts the baseline of "justified claims." Under this doctrine, the Ultra-Orthodox factions view capitulation not as a defeat, but as a mandatory legal duty to minimize systemic damage (*Pikuach Nefesh* in a political sense), making the resulting Nash equilibrium culturally legitimate and exceptionally durable.
+
 ---
 
 ## 📊 The Core Concept
